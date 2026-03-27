@@ -14,5 +14,5 @@ def casting():
    print(f"Precio con descuento: {Precio_con_descuento}")
    print(f"Total: {cantidad_compra}")
 
-casting()
+# casting()
 

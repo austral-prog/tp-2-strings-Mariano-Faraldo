@@ -5,4 +5,4 @@ def slice_advanced():
 
     print(slicing_con_paso)
 
-slice_advanced()
+# slice_advanced()

@@ -15,4 +15,4 @@ def check_vowels():
     print(f"Contiene o: {Hay_o}")
     print(f"Contiene u: {Hay_u}")
 
-check_vowels()
+# check_vowels()
